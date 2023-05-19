@@ -12,7 +12,7 @@ export default function Home() {
       <section className={utilStyles.headingMd}>
         <p>[Your Self Introduction]</p>
         <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
+          Welcome to Tom's Blog.
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
         </p>
       </section>
